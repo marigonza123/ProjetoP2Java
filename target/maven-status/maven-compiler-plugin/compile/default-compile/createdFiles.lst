@@ -1,0 +1,14 @@
+com\projeto\p2\repository\CategoriaRepository.class
+com\projeto\p2\model\Produto.class
+com\projeto\p2\controller\UsuarioController.class
+com\projeto\p2\model\Categoria.class
+com\projeto\p2\repository\UsuarioRepository.class
+com\projeto\p2\springsecurity\ImplementsUserDetailsService.class
+com\projeto\p2\repository\ProdutoRepository.class
+com\projeto\p2\controller\ProdutoController.class
+com\projeto\p2\model\Usuario.class
+com\projeto\p2\springsecurity\SecurityConfig.class
+com\projeto\p2\model\Role.class
+com\projeto\p2\ProjetoP2Application.class
+com\projeto\p2\controller\CategoriaController.class
+com\projeto\p2\Data\DetalheUsuario.class
